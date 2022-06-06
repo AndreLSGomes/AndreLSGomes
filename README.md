@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Git & GitHub / Java / Spring Boot and Spring Rest / Angular
 - 📫 How to reach me: simoes.sg@gmail.com
 
-  <p align="center">
+<br><br>
+  <p align="right">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
