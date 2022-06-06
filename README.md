@@ -22,7 +22,4 @@
  <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
  </a>
-  <a href="https://git-scm.com/">
-    <img src=" icons/mysql/mysql-original-wordmark.svg" alt="git" width="40" height="40"/>
- </a>
 </p>
