@@ -10,7 +10,7 @@
  <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
  </a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+ <a href="https://www.w3schools.com/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
  </a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
