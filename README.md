@@ -23,5 +23,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
  </a>
 </p>
-
-[![AndreLSGomes](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&hide=html&layout=compact&theme=default)]([https://github.com/iuricode/](https://github.com/AndreLSGomes/AndreLSGome))
