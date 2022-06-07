@@ -24,4 +24,4 @@
  </a>
 </p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+[![AndreLSGomes](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&hide=html&layout=compact&theme=default)]([https://github.com/iuricode/](https://github.com/AndreLSGomes/AndreLSGome))
