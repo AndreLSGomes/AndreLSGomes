@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador AndreLSGomes">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="340px" width="340px" align="right" alt="Computador AndreLSGomes">
 
 - 👋 Hi, I’m @AndreLSGomes
 - 👀 I’m interested in web programming
@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/AndreLSGomes">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AndreLSGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&layout=compact&theme=chartreuse-dark&langs_count=16">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AndreLSGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&layout=compact&theme=chartreuse-dark&langs_count=16">
 </div>
 
 <br/>
