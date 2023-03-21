@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador AndreLSGomes">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador AndreLSGomes">
 
 - 👋 Hi, I’m @AndreLSGomes
 - 👀 I’m interested in web programming
@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/AndreLSGomes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLSGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&layout=compact&theme=chartreuse-dark&langs_count=16">
+   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AndreLSGomes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
+   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLSGomes&layout=compact&theme=chartreuse-dark&langs_count=16">
 </div>
 
 <br/>
@@ -27,7 +27,7 @@
  </a>
  &nbsp;
  <a href="https://www.w3schools.com/js/" target="_blanck" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>
  </a>
  &nbsp;
  <a href="https://www.postgresql.org/" target="_blanck" rel="noopener noreferrer">
