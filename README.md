@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @AndreLSGomes
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning Git & GitHub / Java / Spring Boot and Spring Rest / Angular
 - 📫 How to reach me: simoes.sg@gmail.com
 
 <br>
